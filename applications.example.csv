@@ -1,0 +1,3 @@
+company,date_sent,contact_person,email,status,last_contact,follow_up_date,notes
+Example Company,2026-09-20,Jane Doe,jane@example.com,waiting,2026-09-20,,Example application
+Example Tech,2026-09-10,,,rejected,2026-09-15,,No LIA positions available
